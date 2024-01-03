@@ -8,9 +8,8 @@ Before running the program, make sure you have the following:
 
 - C#.
 - [.NET Core](https://dotnet.microsoft.com/download) installed on your machine.
-- Selenium WebDriver for C# installed. You can install it using the NuGet Package Manager:
-
-- 
+- Selenium WebDriver for C# installed. You can install it using the NuGet Package Manager.
+  
 ## Running the Program
 
 1. Ensure you have .NET Core installed.
